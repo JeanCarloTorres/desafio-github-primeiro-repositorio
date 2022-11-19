@@ -1,2 +1,2 @@
-# desafio-github-primeiro-codigo
+# desafio-github-primeiro-repositorio
 Desafio de Projeto sobre Git/GitHub
